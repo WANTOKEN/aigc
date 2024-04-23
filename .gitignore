@@ -1,0 +1,20 @@
+# 忽略编译生成的文件
+*.o
+*.out
+
+# 忽略临时文件
+*.tmp
+*.temp
+
+# 忽略IDE和编辑器生成的文件
+.vscode/
+.idea/
+*.__debug_bin*
+*.sublime-workspace
+
+# 忽略日志文件
+logs/
+
+# 忽略依赖目录
+node_modules/
+vendor/
