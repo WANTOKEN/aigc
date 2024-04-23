@@ -1,0 +1,2 @@
+# aigc
+编写OpenAPI Gin框架工具：使用Go语言编写一个基于Gin框架的OpenAPI工具，用于接收HTTP请求并处理。 调用Stable Diffusion生成图片：在API中调用Stable Diffusion API，生成所需的图片。 Mongo存储用户+图片地址：将用户信息和图片地址存储到MongoDB数据库中。 打包成Docker镜像：将应用程序和所需的依赖项打包成Docker镜像。 增加系统监控：添加系统监控功能，例如使用Prometheus和Grafana监控应用程序的性能和运行状态。 使用Kubernetes管理多个Docker容器：使用Kubernetes进行容器编排和管理，确保应用程序的高可用性和可扩展性。
